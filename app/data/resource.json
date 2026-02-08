@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "exam": "TSPSC Group 2",
+    "category": "Syllabus",
+    "state": "Telangana",
+    "notification": {
+      "title": "TSPSC Group 2 Syllabus",
+      "type": "PDF",
+      "link": "https://www.tspsc.gov.in"
+    },
+    "source": "official",
+    "updatedAt": "2026-01-31"
+  },
+  {
+    "id": 2,
+    "exam": "Descriptive Exam",
+    "category": "Notification",
+    "state": "Central",
+    "notification": {
+      "title": "Descriptive Notification",
+      "type": "PDF",
+      "link": "https://www.careerpower.in/blog/wp-content/uploads/2026/01/31114012/descriptive-notification.pdf"
+    },
+    "source": "reference",
+    "updatedAt": "2026-01-29"
+  },
+  {
+    "id": 3,
+    "exam": "UPSC Civil Services Examination 2026",
+    "category": "Notification & Application",
+    "state": "Central",
+    "notification": {
+      "title": "UPSC CSE 2026 Notification",
+      "type": "PDF",
+      "link": "https://img2.freejobalert.com/news/2026/02/02555820-69832e65b70f975513737.pdf"
+    },
+    "application": {
+      "applyLink": "https://upsconline.nic.in/"
+    },
+    "source": "official",
+    "updatedAt": "2026-02-08"
+  },
+  {
+    "id": 4,
+    "exam": "Gramin Dak Sevak (GDS) 2026",
+    "category": "Postal Jobs",
+    "state": "All India",
+    "notification": {
+      "title": "GDS Online Engagement Schedule-I January 2026",
+      "link": "https://indiapost.gov.in/gdsonlineengagement"
+    },
+    "application": {
+      "applyLink": "https://indiapost.gov.in/gdsonlineengagement"
+    },
+    "source": "official",
+    "updatedAt": "2026-01-28"
+  },
+  {
+    "id": 5,
+    "exam": "RRB Level 1 (Group D)",
+    "category": "Railway Jobs",
+    "state": "All India",
+    "notification": {
+      "type": "PDF",
+      "link": "https://www.rrbcdg.gov.in"
+    },
+    "application": {
+      "applyLink": "https://www.rrbapply.gov.in/#/auth/landing"
+    },
+    "source": "official",
+    "updatedAt": "2026-02-07"
+  },
+  {
+    "id": 6,
+    "exam": "Telangana High Court Office Subordinate",
+    "category": "High Court Jobs",
+    "state": "Telangana",
+    "notification": {
+      "type": "PDF",
+      "link": "https://tshc.gov.in/documents/NORMAL_Recruitment_2026_02_02T18_06_19.pdf"
+    },
+    "application": {
+      "applyLink": "https://tshc.gov.in"
+    },
+    "source": "official",
+    "updatedAt": "2026-02-02"
+  },
+  {
+    "id": 7,
+    "exam": "Indian Air Force Agniveervayu 01/2027",
+    "category": "Air Force Jobs",
+    "state": "All India",
+    "notification": {
+      "type": "PDF",
+      "link": "https://iafrecruitment.edcil.co.in/agniveervayu/pdffiles/Advt%20Agniveervayu%2001%20of%2027.pdf"
+    },
+    "application": {
+      "applyLink": "https://cdn.digialm.com/EForms/configuredHtml/1258/97277/login.html"
+    },
+    "source": "official",
+    "updatedAt": "2026-01-12"
+  }
+]
